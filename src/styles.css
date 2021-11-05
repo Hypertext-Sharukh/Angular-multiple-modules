@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.class1{
+    background-color: blue;
+    width:500px;
+    height:300px;
+    margin:20px;
+    padding:10px;
+    float:left;
+}
+.class2{
+    background-color:grey;
+    width:200px;
+    height:100px;
+    margin:20px;
+    float:left;
+    padding:10px;
+}
